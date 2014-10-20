@@ -1,0 +1,1 @@
+var db = new PouchDB('playground', {adapter : 'websql'});
